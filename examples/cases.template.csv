@@ -1,0 +1,2 @@
+id,image,mask
+example_case,/path/to/ct.nii.gz,/path/to/tumor_mask.nii.gz

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use GIST-Net, please cite this software repository."
+title: "GIST-Net"
+type: software
+version: 1.0.0
+date-released: 2026-10-26
+repository-code: "https://github.com/hebeidpa/GIST-Net"
+license: MIT

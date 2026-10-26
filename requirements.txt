@@ -1,0 +1,3 @@
+-e .
+# Install the Merlin medical foundation-model package separately and place its
+# locally acquired checkpoint in the directory passed to --merlin-local-dir.
